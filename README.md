@@ -3,7 +3,7 @@
 - 👀 I’m interested in leveraging AI, IoT, and advanced analytics to create innovative tech solutions that drive business growth and empower organizations.
 - 🌱 I’m currently exploring cutting-edge technologies, including quantum computing, blockchain applications in AI, and advancements in cloud-native architectures.
 - 💞️ I’m looking to collaborate on projects that involve AI strategy consulting, IoT solutions deployment, predictive analysis, and process automation.
-- 📫 How to reach me: You can connect with me via LinkedIn Lhttps://www.linkedin.com/in/manuel-c-68245710b/ or email at ing.meca0304@gmail.com
+- 📫 How to reach me: You can connect with me via LinkedIn Https://www.linkedin.com/in/manuel-c-68245710b/ or email at ing.meca0304@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about developing AI-driven solutions that not only solve complex problems but also enhance everyday life experiences. When I’m not coding, you can find me exploring the latest trends in tech or mentoring the next generation of engineers.
 - 💻 Languages and Tools:
