@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Manuel Castillo-CTO@MHELTechSolutions
-- Attached my profile [Manuel_Castillo_Profile - CDO.pdf](https://github.com/user-attachments/files/16841497/Manuel_Castillo_Profile.-.CDO.pdf)
 - 👀 I’m interested in leveraging AI, IoT, and advanced analytics to create innovative tech solutions that drive business growth and empower organizations.
 - 🌱 I’m currently exploring cutting-edge technologies, including quantum computing, blockchain applications in AI, and advancements in cloud-native architectures.
 - 💞️ I’m looking to collaborate on projects that involve AI strategy consulting, IoT solutions deployment, predictive analysis, and process automation.
